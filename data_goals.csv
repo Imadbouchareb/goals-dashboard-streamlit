@@ -1,0 +1,3 @@
+goal_id,goal_name,start_date,end_date,target_value,unit,owner,category,weight,color,notes
+G1,Perdre 5 kg,2025-10-01,2026-01-01,5,kg,Imadbouchareb,Santé,1,#e74c3c,Objectif santé Q4
+G2,Lire 12 livres,2025-01-01,2025-12-31,12,livres,Imadbouchareb,Apprentissage,1,#3498db,Routine lecture
